@@ -7,10 +7,14 @@
              x:Class="WeatherApp.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Label Text="Choose a city: " FontSize="Title" Margin="0,250,0,0" HorizontalTextAlignment="Center" TextColor="Black"/>
+        <Picker Title="Cities" FontSize="Subtitle" HorizontalOptions="CenterAndExpand">
+        <Picker.Items>
+                <x:String>Moscow</x:String>
+                <x:String>Novosibirsk</x:String>
+                <x:String>Tomsk</x:String>
+            </Picker.Items>
+        </Picker>
     </StackLayout>
 
 </ContentPage>

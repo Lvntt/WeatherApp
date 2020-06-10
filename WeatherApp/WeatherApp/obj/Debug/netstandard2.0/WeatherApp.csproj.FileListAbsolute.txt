@@ -1,0 +1,14 @@
+C:\project\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\project\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\project\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\project\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb

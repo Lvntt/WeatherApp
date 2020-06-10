@@ -8,11 +8,15 @@ using Xamarin.Forms;
 
 namespace WeatherApp
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        public static List<City> cities = new List<City>
+        {
+            new City("Moscow", 15.5, 63, 5),
+            new City("Novosibrisk", 23.0, 65, 3),
+            new City("Tomsk", 25.1, 70, 6)
+        };
         public MainPage()
         {
             InitializeComponent();

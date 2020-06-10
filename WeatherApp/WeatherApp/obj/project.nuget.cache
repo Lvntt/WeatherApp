@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6FgjtsKnoctURYwh4O5BHlQmhDlYlpqiMBF3GMIuaJMBTc2aWap7IqBzahKh+O1Y0avmsNlyqgdKlrwJrfPfrw==",
+  "dgSpecHash": "UHS56v8hq4tYdPrULgBRn2SoBRJ9g6JGx9Z9162gjrJIeyoJE6WRmwqM35h3Gkz+deHnortBtCIWVXamFZ5Q8g==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio 2019\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "projectFilePath": "C:\\project\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Матвей\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
