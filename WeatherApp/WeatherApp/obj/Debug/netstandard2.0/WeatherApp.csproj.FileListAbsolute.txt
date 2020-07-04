@@ -12,3 +12,4 @@ C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
 C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
 C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
+C:\project\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs

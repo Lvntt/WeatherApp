@@ -4,17 +4,18 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="WeatherApp.MainPage">
+             x:Class="WeatherApp.MainPage"
+             Title="Weather">
 
     <StackLayout>
         <Label Text="Choose a city: " FontSize="Title" Margin="0,250,0,0" HorizontalTextAlignment="Center" TextColor="Black"/>
-        <Picker Title="Cities" FontSize="Subtitle" HorizontalOptions="CenterAndExpand">
-        <Picker.Items>
-                <x:String>Moscow</x:String>
-                <x:String>Novosibirsk</x:String>
-                <x:String>Tomsk</x:String>
-            </Picker.Items>
-        </Picker>
+        <Picker
+            x:Name="cityChoice"
+            Title="Cities"
+            FontSize="Subtitle"
+            SelectedIndexChanged="cityChoice_SelectedIndexChanged"
+            ItemDisplayBinding="{Binding Name}"
+        />
     </StackLayout>
 
 </ContentPage>
